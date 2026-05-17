@@ -49,19 +49,9 @@ MarbleAI:         Segment → Threshold → Count → 18.74% → objective, per 
 ```
 
 ---
-
 ## 🎬 Demo
 
-> `[.mp4](https://drive.google.com/file/d/1nmVdhYG3Dx6XxrFaUz_M2H1mE9dCNoC4/view?usp=sharing)` 
-
-**To embed the video:**
-1. Go to your repo → Click the README.md → Edit
-2. Drag and drop your `.mp4` file directly into the edit box
-3. GitHub auto-generates an embed link — paste it here
-
-```
-[Demo video placeholder — add your processed output here]
-```
+![MarbleAI in action — real-time fat estimation on meat slices](assets/marbleai.gif)
 
 *The processed video shows YOLO11 segmentation masks overlaid on each meat slice, with real-time fat percentage annotations and a conveyor cutoff line.*
 
